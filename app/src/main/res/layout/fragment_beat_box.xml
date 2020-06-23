@@ -22,7 +22,7 @@
             android:id="@+id/linearLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#FFFFFF"
+            android:background="?attr/colorPrimary"
             android:orientation="vertical"
             android:paddingTop="8dp"
             android:paddingBottom="8dp"
